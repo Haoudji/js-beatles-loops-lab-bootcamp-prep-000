@@ -11,5 +11,5 @@ function johnLennonFacts(array){
      array[n] + "!!! "
     n++
   }
-  return array
+  return array + "!!! "
 }
